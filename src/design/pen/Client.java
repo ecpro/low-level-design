@@ -8,7 +8,7 @@ import design.pen.strategies.GelWriteBehaviourStrategy;
 
 import java.io.PrintWriter;
 
-public class App {
+public class Client {
 
     public static void main(String[] args) {
 
