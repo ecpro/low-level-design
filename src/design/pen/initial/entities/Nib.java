@@ -1,4 +1,4 @@
-package design.pen.entities;
+package design.pen.initial.entities;
 
 public class Nib {
     Type nibType;

@@ -1,9 +1,8 @@
-package design.pen.entities;
+package design.pen.initial.entities;
 
-import design.pen.strategies.WriteBehaviourStrategy;
+import design.pen.initial.strategies.WriteBehaviourStrategy;
 
 import java.io.PrintWriter;
-import java.io.Writer;
 
 public abstract class Pen {
 

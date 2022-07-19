@@ -1,10 +1,10 @@
-package design.pen;
+package design.pen.initial;
 
-import design.pen.entities.Ink;
-import design.pen.entities.Nib;
-import design.pen.entities.RefillPen;
-import design.pen.entities.Type;
-import design.pen.strategies.GelWriteBehaviourStrategy;
+import design.pen.initial.entities.Ink;
+import design.pen.initial.entities.Nib;
+import design.pen.initial.entities.RefillPen;
+import design.pen.initial.entities.Type;
+import design.pen.initial.strategies.GelWriteBehaviourStrategy;
 
 import java.io.PrintWriter;
 

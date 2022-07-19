@@ -1,10 +1,9 @@
-package design.pen.strategies;
+package design.pen.initial.strategies;
 
-import design.pen.entities.Ink;
-import design.pen.entities.Nib;
+import design.pen.initial.entities.Ink;
+import design.pen.initial.entities.Nib;
 
 import java.io.PrintWriter;
-import java.io.Writer;
 
 public class GelWriteBehaviourStrategy implements WriteBehaviourStrategy {
 

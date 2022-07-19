@@ -1,6 +1,6 @@
-package design.pen.entities;
+package design.pen.initial.entities;
 
-import design.pen.strategies.WriteBehaviourStrategy;
+import design.pen.initial.strategies.WriteBehaviourStrategy;
 
 public class NonRefillPen extends Pen {
 
